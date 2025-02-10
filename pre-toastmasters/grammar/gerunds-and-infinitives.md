@@ -48,7 +48,7 @@ Yes, I like **swimming**으로 답해줘야 자연스럽다. gerund나 infinitiv
    → **want, decide, hope, plan, agree, need, learn, promise, afford, expect, refuse, offer, seem, appear, intend, volunteer, ask, prepare, wait, mean, etc.** 
    e.g. *He decided to leave.*  
 
-### 3️⃣ **둘 다 가능하지만 의미가 달라지는 경우**
+### 3️⃣ **둘 다 가능한 동사**
    → **begin, hate, love, start, continue, like, prefer, etc.**
 - **Remember + Gerund** → (과거에 한 일을 기억함)  
   e.g. *I remember meeting him last year.* (**작년에 그를 만났던 기억이 남**)  
