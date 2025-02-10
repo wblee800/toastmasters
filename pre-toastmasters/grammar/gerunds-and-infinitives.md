@@ -24,18 +24,18 @@
 ## 📌 Gerund or Infinitive or Both를 허용하는 동사
 ### 1️⃣ **동명사(Gerund)만 받는 동사**
    → **enjoy, avoid, consider, finish, mind, keep, suggest, practice, admit, miss, advise, deny, imagine, practice, appreciate, discuss, quit, dislike, mention, recommend, complete, suggest, etc.**
-   ✅ *She enjoys dancing.*  
+   e.g. *She enjoys dancing.*  
 
 ### 2️⃣ **부정사(Infinitive)만 받는 동사**
    → **want, decide, hope, plan, agree, need, learn, promise, afford, expect, refuse, offer, seem, appear, intend, volunteer, ask, prepare, wait, mean, etc.** 
-   ✅ *He decided to leave.*  
+   e.g. *He decided to leave.*  
 
 ### 3️⃣ **둘 다 가능하지만 의미가 달라지는 경우**
    → **begin, hate, love, start, continue, like, prefer, etc.**
 - **Remember + Gerund** → (과거에 한 일을 기억함)  
-  ✅ *I remember meeting him last year.* (**작년에 그를 만났던 기억이 남**)  
+  e.g. *I remember meeting him last year.* (**작년에 그를 만났던 기억이 남**)  
 - **Remember + Infinitive** → (해야 할 일을 기억함)  
-  ✅ *Remember to call me later.* (**나중에 전화해야 한다는 것을 기억해**)  
+  e.g. *Remember to call me later.* (**나중에 전화해야 한다는 것을 기억해**)  
 
 ---
 
