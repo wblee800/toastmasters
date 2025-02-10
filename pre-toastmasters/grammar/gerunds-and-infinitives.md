@@ -42,18 +42,18 @@
 ## 📌 핵심 정리
 ✔ **Gerunds (-ing)**: 행동을 "하는 것" 자체를 의미 (**습관, 경험**)
 - **문장의 주어(subjective)로 쓰이는 경우**
-   - e.g. Shopping is my favorite hobby.
+   - e.g. **Shopping** is my favorite hobby.
 - **전치사(preposition) 다음에 쓰이는 경우**
-   - e.g. She thoght about calling him but decided she wouldn't.
-- **동사(verb) 다음에 쓰이는 경우**(암기 필요)****
-   - e.g. He enjoys learning about gerunds.
+   - e.g. She thoght **about calling** him but decided she wouldn't.
+- **동사(verb) 다음에 쓰이는 경우**(암기 필요)
+   - e.g. He **enjoys learning** about gerunds.
 
 <br>
 
 ✔ **Infinitives (to + V)**: "미래의 목표, 혹은 행동의 목적"를 강조 (**미래 지향적 행동**)
 - **형용사(adjective) 다음에 쓰이는 경우**
-   - e.g. It is nice to meet you.
+   - e.g. It is **nice to** meet you.
 - **명사(noun) 다음에 쓰이는 경우**
-   - e.g. You asked me to call you.
-- **동사(verb) 다음에 쓰이는 경우**(암기 필요)****
-   - e.g. They want to get their tests back as soon as possible.
+   - e.g. You asked **me to call** you.
+- **동사(verb) 다음에 쓰이는 경우**(암기 필요)
+   - e.g. They **want to get** their tests back as soon as possible.
