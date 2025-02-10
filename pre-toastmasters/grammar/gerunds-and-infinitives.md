@@ -21,16 +21,17 @@
 
 ---
 
-## 📌 사용법 정리
+## 📌 Gerund or Infinitive or Both를 허용하는 동사
 ### 1️⃣ **동명사(Gerund)만 받는 동사**
-   → **enjoy, avoid, consider, finish, mind, keep, suggest, practice** 등  
+   → **enjoy, avoid, consider, finish, mind, keep, suggest, practice, admit, miss, advise, deny, imagine, practice, appreciate, discuss, quit, dislike, mention, recommend, complete, suggest, etc.**
    ✅ *She enjoys dancing.*  
 
 ### 2️⃣ **부정사(Infinitive)만 받는 동사**
-   → **want, decide, hope, plan, agree, need, learn, promise** 등  
+   → **want, decide, hope, plan, agree, need, learn, promise, afford, expect, refuse, offer, seem, appear, intend, volunteer, ask, prepare, wait, mean, etc.** 
    ✅ *He decided to leave.*  
 
 ### 3️⃣ **둘 다 가능하지만 의미가 달라지는 경우**
+   → **begin, hate, love, start, continue, like, prefer, etc.**
 - **Remember + Gerund** → (과거에 한 일을 기억함)  
   ✅ *I remember meeting him last year.* (**작년에 그를 만났던 기억이 남**)  
 - **Remember + Infinitive** → (해야 할 일을 기억함)  
@@ -40,4 +41,19 @@
 
 ## 📌 핵심 정리
 ✔ **Gerunds (-ing)**: 행동을 "하는 것" 자체를 의미 (**습관, 경험**)
-✔ **Infinitives (to + V)**: "미래의 목표, 혹은 행동의 목적"를 강조 → **미래 지향적 행동**  
+- 문장의 주어(subjective)로 쓰이는 경우
+   - e.g. Shopping is my favorite hobby.
+- 전치사(preposition) 다음에 쓰이는 경우
+   - e.g. She thoght about calling him but decided she wouldn't.
+- 동사(verb) 다음에 쓰이는 경우**(암기 필요)**
+   - e.g. He enjoys learning about gerunds.
+
+<br>
+
+✔ **Infinitives (to + V)**: "미래의 목표, 혹은 행동의 목적"를 강조 (**미래 지향적 행동**)
+- 형용사(adjective) 다음에 쓰이는 경우
+   - e.g. It is nice to meet you.
+- 명사(noun) 다음에 쓰이는 경우
+   - e.g. You asked me to call you.
+- 동사(verb) 다음에 쓰이는 경우**(암기 필요)**
+   - e.g. They want to get their tests back as soon as possible.
