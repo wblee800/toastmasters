@@ -8,7 +8,7 @@
 | **예문** | 1️⃣ *Swimming is good exercise.* (수영하는 것은 좋은 운동이다.) **→ 주어**<br>2️⃣ *She enjoys reading novels.* (그녀는 소설 읽기를 즐긴다.) **→ 목적어**<br>3️⃣ *His favorite hobby is painting.* (그의 가장 좋아하는 취미는 그림 그리기다.) **→ 보어** | 1️⃣ *To swim in the ocean is my dream.* (바다에서 수영하는 것이 내 꿈이다.) **→ 주어**<br>2️⃣ *She wants to read a novel.* (그녀는 소설을 읽기를 원한다.) **→ 목적어**<br>3️⃣ *I am happy to help you.* (나는 너를 도와서 기쁘다.) **→ 보어(형용사 수식)** |
 | **주로 사용되는 동사** | enjoy, avoid, consider, finish, mind, keep, suggest, practice 등 | want, decide, hope, plan, agree, need, learn, promise 등 |
 | **의미 차이** | **일반적인 습관, 행동** (더 자연스럽고 일반적) | **미래의 목표나 특정한 행동** (결정, 의도) |
-| **예문 비교** | ✅ *I like reading books.* (나는 책 읽는 것을 좋아한다.) → **"읽는 행위 자체"를 즐김**<br>✅ *I like to read books before bed.* (나는 자기 전에 책을 읽는 것을 좋아한다.) → **"특정한 상황에서" 책을 읽기를 선호함** |
+| **예문 비교** | ✅ *I like reading books.* (나는 책 읽는 것을 좋아한다.) → **"읽는 행위 자체"를 즐김**<br>|✅ *I like to read books before bed.* (나는 자기 전에 책을 읽는 것을 좋아한다.) → **"특정한 상황에서" 책을 읽기를 선호함** |
 
 ---
 
