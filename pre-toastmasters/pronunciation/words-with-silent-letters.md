@@ -3,7 +3,7 @@
 
 Occurs after "m" or before "t."
 
-    e.g. comb, thumb, subtle, doubt, debt
+    e.g. comb, thumb, subtle, doubt, debt, dumb
 
 ### 2. Silent "C"
 
