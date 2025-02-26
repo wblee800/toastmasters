@@ -49,7 +49,7 @@ Toastmasters meetings involve more than just speeches. Members take on different
 
 ---
 
-### 🎭 **1. Toastmaster of the Day (TMOD) - Meeting Host
+### 🎭 1. Toastmaster of the Day (TMOD) - Meeting Host
 - Acts as the **host** and keeps the meeting running smoothly.
 - Introduces speakers and manages transitions between sessions.
 - Ensures the meeting stays on schedule.
@@ -57,14 +57,14 @@ Toastmasters meetings involve more than just speeches. Members take on different
 
 ---
 
-### 🎤 **2. Prepared Speaker - Speech Presenter
+### 🎤 2. Prepared Speaker - Speech Presenter
 - Delivers a **pre-planned** speech based on the Toastmasters Pathways curriculum.
 - Speeches cover topics like storytelling, persuasion, humor, etc.
 - **🔥 Helps improve public speaking & confidence!**
 
 ---
 
-### 🎭 **3. Table Topics Master - Impromptu Speech Facilitator
+### 🎭 3. Table Topics Master - Impromptu Speech Facilitator
 - Runs the **impromptu speaking session (Table Topics).**
 - Asks **random questions or topics** for members to speak on spontaneously.
   - Example: **"Describe your dream vacation in 1 minute!"**
@@ -72,14 +72,14 @@ Toastmasters meetings involve more than just speeches. Members take on different
 
 ---
 
-### 🗣 **4. Table Topics Speaker - Impromptu Speaker
+### 🗣 4. Table Topics Speaker - Impromptu Speaker
 - Answers the Table Topics Master’s question **spontaneously**.
 - Speaks for **1-2 minutes** without preparation.
 - **🔥 Great for overcoming fear of speaking!**
 
 ---
 
-### ✅ **5. Evaluator - Speech Evaluator
+### ✅ 5. Evaluator - Speech Evaluator
 - Listens to a **Prepared Speaker** and provides structured feedback.
 - Highlights **strengths & areas for improvement**.
   - Example: **"Your tone was engaging, but try adding a stronger conclusion."**
@@ -87,14 +87,14 @@ Toastmasters meetings involve more than just speeches. Members take on different
 
 ---
 
-### ⏳ **6. Timer - Timekeeper**
+### ⏳ 6. Timer - Timekeeper
 - Tracks speaking time for each session.
 - Uses **green (OK), yellow (warning), red (time exceeded)** signals.
 - **🔥 Improves time management skills!**
 
 ---
 
-### 🔡 **7. Grammarian - Language & Expression Monitor**
+### 🔡 7. Grammarian - Language & Expression Monitor
 - Notes **strong phrases & incorrect grammar usage** in speeches.
 - Introduces a **Word of the Day** and encourages members to use it.
   - Example: **"Word of the Day: Resilience – Try using it in your speech!"**
@@ -102,14 +102,14 @@ Toastmasters meetings involve more than just speeches. Members take on different
 
 ---
 
-### 🔎 **8. Ah-Counter - Filler Word Checker**
+### 🔎 8. Ah-Counter - Filler Word Checker
 - Monitors **filler words** like “um”, “uh”, “like”, “you know”.
 - Helps speakers eliminate verbal crutches.
 - **🔥 Enhances fluency & clarity in speech!**
 
 ---
 
-### 🎭 **9. General Evaluator - Overall Meeting Reviewer**
+### 🎭 9. General Evaluator - Overall Meeting Reviewer
 - Provides **feedback on the overall meeting**.
 - Evaluates the effectiveness of all roles.
 - **🔥 Develops leadership & analytical skills!**
