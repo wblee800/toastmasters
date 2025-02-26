@@ -27,7 +27,7 @@ Toastmasters International is a non-profit organization that helps people develo
 
 ---
 
-### 🌏 1990s–2000s: Digital Transformation
+### 🌐 1990s–2000s: Digital Transformation
 - Toastmasters introduced **educational materials & online resources**.
 - Pathways, a **modernized learning curriculum**, was launched in 2017.
 - Clubs started using **virtual meetings** with video conferencing tools.
