@@ -13,14 +13,14 @@ Toastmasters International is a non-profit organization that helps people develo
 
 ---
 
-### 🌍 1930s–1950s: Expansion & Growth
+### 🌎 1930s–1950s: Expansion & Growth
 - The organization expanded beyond California to **other U.S. states**.
 - Toastmasters became **Toastmasters International** in **1930** as clubs opened in Canada.
 - The first club outside North America was established in **South Africa (1950s)**.
 
 ---
 
-### 🚀 1960s–1980s: Global Recognition
+### 🌍 1960s–1980s: Global Recognition
 - Clubs were established in **Europe, Asia, and Australia**.
 - The first **World Champion of Public Speaking** was held in 1938, becoming a major annual event.
 - By the 1980s, there were **thousands of clubs worldwide**.
