@@ -9,7 +9,7 @@
 # What is a river horse?
 <img src="hippo-river-horse-3999064534.jpg" alt="hippo">
 
-### hippopotamus, its name comes from the ancient Greek for "river horse" (ἱπποπόταμος). 
+### Hippopotamus, its name comes from the ancient Greek for "river horse" (ἱπποπόταμος). 
 
 <br>
 <br>
