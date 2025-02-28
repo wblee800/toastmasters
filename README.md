@@ -116,5 +116,5 @@ Toastmasters meetings involve more than just speeches. Members take on different
 
 ---
 
-### 🏆 💡 Recommended Roles for Beginners (초보자를 위한 추천 역할)
+### 🏆 💡 Recommended Roles for Beginners
 ✔ `Timer / Ah-Counter / Toastmaster of the Day`
